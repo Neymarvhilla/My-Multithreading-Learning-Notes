@@ -1,0 +1,3 @@
+/Users/nesoaniagboso/CLionProjects/working_with_shared_data/cmake-build-debug/CMakeFiles/working_with_shared_data.dir
+/Users/nesoaniagboso/CLionProjects/working_with_shared_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nesoaniagboso/CLionProjects/working_with_shared_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
